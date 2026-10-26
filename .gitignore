@@ -1,21 +1,13 @@
-# ---- runtime state (do not sync across machines) ----
+# ---- runtime state written by PI plugins (do not sync across machines) ----
 **/_debug.log
 **/*.log
 **/nudge-state.json
+**/nudge.md
+**/_boot.txt
+**/usage.json
 **/last-review.json
 **/last-enqueue.json
-**/usage.json
-skills/.skill-learning/queue/
-**/_boot.txt
-
-# ---- machine-bound ----
-servers/filesystem.json
-
-# ---- pending placeholders, replaced by cloned content ----
-**/.pending
 
 # ---- OS junk ----
 **/.DS_Store
 **/Thumbs.db
-# Consumed and deleted by cn.star.user-profile plugin at runtime
-**/nudge.md
