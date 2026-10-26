@@ -17,3 +17,5 @@ servers/filesystem.json
 # ---- OS junk ----
 **/.DS_Store
 **/Thumbs.db
+# Consumed and deleted by cn.star.user-profile plugin at runtime
+**/nudge.md
