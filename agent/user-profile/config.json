@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "userProfileEnabled": true,
+  "memoryEnabled": true,
+  "userCharLimit": 1375,
+  "memoryCharLimit": 2200,
+  "nudgeInterval": 10,
+  "memoryScope": "global",
+  "writeApproval": "notify"
+}
